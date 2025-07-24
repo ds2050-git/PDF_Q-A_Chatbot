@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## ▶️ How to Use
 
-1. **Put PDFs inside `data/` folder**
+1. **Create and put PDFs inside `data/` folder**
 
    Example:
 
