@@ -1,0 +1,16 @@
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+langchain-groq
+openai
+faiss-cpu
+pypdf
+unstructured
+tabulate
+lxml
+html5lib
+pdfminer.six
+tiktoken
+sentence-transformers
